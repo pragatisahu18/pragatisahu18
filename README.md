@@ -72,8 +72,11 @@ Hello! <br>
 [![Samsung Smart Home – Market Penetration & Adoption Plan](https://img.shields.io/badge/Samsung%20Smart%20Home%20%E2%80%93%20Market%20Penetration%20%26%20Adoption%20Plan-BFD8FF?style=flat&color=BFD8FF&labelColor=BFD8FF)](https://drive.google.com/file/d/1eNZZtIrvV2BkgE_CZfK4XVHkDES8O5El/view?usp=sharing)
 
 
-### 10. Pricing Strategy
+#### 9. Pricing Strategy
 
 [![Spotify – Tiered Pricing & Revenue Optimization Model](https://img.shields.io/badge/Spotify%20%E2%80%93%20Tiered%20Pricing%20%26%20Revenue%20Optimization%20Model-FFD6A5?style=flat&color=FFD6A5&labelColor=FFD6A5)](YOUR_SPOTIFY_DRIVE_LINK_HERE)
 
 
+#### 10. Thought Leadership
+
+[![SAP Analytics Cloud – Collaborative Enterprise Planning](https://img.shields.io/badge/SAP%20Analytics%20Cloud%20%E2%80%93%20Collaborative%20Enterprise%20Planning-C7D2FE?style=flat&color=C7D2FE&labelColor=C7D2FE)](https://drive.google.com/file/d/1RNi89wl0wQsMXR4SakNRy1SmUWp9cDi9/view?usp=sharing)
