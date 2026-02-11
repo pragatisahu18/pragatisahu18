@@ -18,9 +18,9 @@ Hello! <br>
 
 #### 1. New Product Launch
 
-[![Mario - Super Oats](https://img.shields.io/badge/Mario%20-%20Super%20Oats-FFC0CB?style=flat&color=FFC0CB&labelColor=FFC0CB)](https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=sharing)
+[![Saffola Super Oats – Health-Focused Product Launch Strategy](https://img.shields.io/badge/Mario%20-%20Super%20Oats-FFC0CB?style=flat&color=FFC0CB&labelColor=FFC0CB)](https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=sharing)
 
-[![Loreal : Luminox Men Skincare](https://img.shields.io/badge/Loreal%20%3A%20Luminox%20Men%20Skincare-FFC0CB?style=flat&color=FFC0CB&labelColor=FFC0CB)](https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/view?usp=sharing)
+[![L’Oréal – Luminox AI Skincare Launch Strategy](https://img.shields.io/badge/Loreal%20%3A%20Luminox%20Men%20Skincare-FFC0CB?style=flat&color=FFC0CB&labelColor=FFC0CB)](https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/view?usp=sharing)
 
 
 #### 2. New Product Development
