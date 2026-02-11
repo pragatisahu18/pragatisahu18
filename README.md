@@ -33,17 +33,11 @@ Hello! <br>
 [![Prime Pipes – 360° Brand Strategy](https://img.shields.io/badge/Prime%20Pipes%20%E2%80%93%20360%C2%B0%20Brand%20Strategy-AEC6CF?style=flat&color=AEC6CF&labelColor=AEC6CF)](https://drive.google.com/file/d/1nTav-5J_PJrzyPDD9gVP3KNP7kNhLYpx/view?usp=sharing)
 
 
+#### 4. Growth Strategy
 
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
-  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-      <br>
-    4. Brand repositioning strategy : Facewash Category
-  </div>
-  <a href="https://drive.google.com/file/d/1fKJOciti_DVYmkxSjqLD1NT5DyrrZ3Nn/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Market%20Research%20%3A%20Medimix-006400?style=flat&logo=&logoColor=FFFFE0&color=006400&labelColor=006400&logoWidth=20" alt="Market Research : Medimix" />
-  </a>
-</div>
+[![TVS Credit – Generative AI Transformation Strategy](https://img.shields.io/badge/TVS%20Credit%20%E2%80%93%20Generative%20AI%20Transformation%20Strategy-CDB4DB?style=flat&color=CDB4DB&labelColor=CDB4DB)](https://drive.google.com/file/d/1-K5JhWOmGJMvBQs3PuVU1xzcE9K5FQCR/view?usp=sharing)
 
+[![Kotak Life – Growth Strategy & App Monetization](https://img.shields.io/badge/Kotak%20Life%20%E2%80%93%20Growth%20Strategy%20%26%20App%20Monetization-CDB4DB?style=flat&color=CDB4DB&labelColor=CDB4DB)](https://drive.google.com/file/d/1vK-3AY9y8y1y0G6CZ0gjdMsjXOyhM0-V/view?usp=sharing)
 
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
