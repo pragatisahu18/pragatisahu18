@@ -23,7 +23,7 @@ Hello! <br>
     1. New Product Launch Strategy
   </div>
   <a href="https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=drive_link?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="Saffola: Super Oats" />
+    <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="Saffola: Super Oats       " />
   </a>
 </div>
   </div>
