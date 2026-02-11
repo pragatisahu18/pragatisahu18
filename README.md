@@ -40,7 +40,7 @@ Hello! <br>
     2. Boosting brand engagement with mobile gaming to drive loyalty.
   </div>
   <a href="https://drive.google.com/file/d/1LeP-ttmjY8DH_NkN6tP9aJ_bGX7CNtH5/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Play%20the%20Lifebuoy%20Game%3F-FF0000?style=flat&logo=&logoColor=white&color=FF0000&labelColor=FF0000&logoWidth=20" alt="Play the Lifebuoy Game?" />
+    <img src="https://img.shields.io/badge/Play%20the%20Lifebuoy%20Game%3F-FF0000?style=flat&logo=&logoColor=white&color=FF0000&labelColor=FF0000&logoWidth=20" alt="ndlsjknlfjkn" />
   </a>
 </div>
 
