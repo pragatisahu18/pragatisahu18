@@ -36,9 +36,7 @@ Hello! <br>
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;"> 
-    <br>
-
-    
+    <br>    
     2. New Product Development
 </div>
 <a href="https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=drive_link" 
