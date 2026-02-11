@@ -64,3 +64,9 @@ Hello! <br>
 
 [![Personal Care – GMV & Margin Optimization](https://img.shields.io/badge/Personal%20Care%20%E2%80%93%20GMV%20%26%20Margin%20Optimization-A8E6CF?style=flat&color=A8E6CF&labelColor=A8E6CF)](https://drive.google.com/file/d/1SJ9DYE0tugJfpsjrVyi7HuXDD5b8Jop_/view?usp=sharing)
 
+
+#### 8. Market Entry Strategy
+
+[![Prime Pipes – CPVC/UPVC Market Entry & Expansion Blueprint](https://img.shields.io/badge/Prime%20Pipes%20%E2%80%93%20CPVC%2FUPVC%20Market%20Entry%20%26%20Expansion%20Blueprint-BFD8FF?style=flat&color=BFD8FF&labelColor=BFD8FF)](https://drive.google.com/file/d/1JHZ7ewb7OX3mAumFiQek8kM3c43XGsVO/view?usp=sharing)
+
+[![Samsung Smart Home – Market Penetration & Adoption Plan](https://img.shields.io/badge/Samsung%20Smart%20Home%20%E2%80%93%20Market%20Penetration%20%26%20Adoption%20Plan-BFD8FF?style=flat&color=BFD8FF&labelColor=BFD8FF)](https://drive.google.com/file/d/1eNZZtIrvV2BkgE_CZfK4XVHkDES8O5El/view?usp=sharing)
