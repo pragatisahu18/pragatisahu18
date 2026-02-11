@@ -16,21 +16,21 @@ Hello! <br>
 ## 📈 Projects I've worked on:
 
 
-### 1. New Product Launch
+#### 1. New Product Launch
 
 [![Mario - Super Oats](https://img.shields.io/badge/Mario%20-%20Super%20Oats-FFC0CB?style=flat&color=FFC0CB&labelColor=FFC0CB)](https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=sharing)
 
 [![Loreal : Luminox Men Skincare](https://img.shields.io/badge/Loreal%20%3A%20Luminox%20Men%20Skincare-FFC0CB?style=flat&color=FFC0CB&labelColor=FFC0CB)](https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/view?usp=sharing)
 
 
-### 2. New Product Development
+#### 2. New Product Development
 
 [![Personal Finance App - SuperX](https://img.shields.io/badge/Personal%20Finance%20App%20-%20SuperX-FF0000?style=flat&color=FF0000&labelColor=FF0000)](https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=sharing)
 
 
-### 3. Brand Strategy
+#### 3. Brand Strategy
 
-[![Branding for Prime Pipes](https://img.shields.io/badge/Branding%20for%20Prime%20Pipes-AEC6CF?style=flat&color=AEC6CF&labelColor=AEC6CF)](https://drive.google.com/file/d/1nTav-5J_PJrzyPDD9gVP3KNP7kNhLYpx/view?usp=sharing)
+[![Prime Pipes – 360° Brand Strategy](https://img.shields.io/badge/Prime%20Pipes%20%E2%80%93%20360%C2%B0%20Brand%20Strategy-AEC6CF?style=flat&color=AEC6CF&labelColor=AEC6CF)](https://drive.google.com/file/d/1nTav-5J_PJrzyPDD9gVP3KNP7kNhLYpx/view?usp=sharing)
 
 
 
