@@ -3,14 +3,6 @@
 Hello! <br>
 
 
-I’m curious about what drives consumer decisions, blending psychology and business insights. <br>
-I currently lead category growth at Swiggy.
-
-I’ve managed a 70+Cr portfolio at Instamart and I'm part of the founding team for Snacc, Swiggy’s QSR venture, <br>
-and helped scaled this from 4 to 60+ locations. My focus area include category metrics, supply & operations, growth, and vendor <br>
-partnerships, all driven by data-driven strategies.
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatisahu1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
