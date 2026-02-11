@@ -38,10 +38,15 @@ Hello! <br>
   <div style="font-size: 12px; color: #333; margin-bottom: 6px;"> 
     <br>
     2. New Product Development
-  </div>
-  <a href="https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=drive_link?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Play%20the%20Lifebuoy%20Game%3F-FF0000?style=flat&logo=&logoColor=white&color=FF0000&labelColor=FF0000&logoWidth=20" alt="good good good" />
-  </a>
+</div>
+<a href="https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=sharing" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   style="display: inline-block;">
+    
+  <img src="https://img.shields.io/badge/Personal%20Finance%20App%20-%20SuperX-FF0000?style=flat&color=FF0000&labelColor=FF0000" 
+       alt="Personal Finance App - SuperX" />
+</a>
 </div>
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
