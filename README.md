@@ -14,11 +14,11 @@ partnerships, all driven by data-driven strategies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatisahu1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheravedika@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatisahu1811@gmail.com)
 
 
 ## 📄 Resume :
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://drive.google.com/file/d/1K3ieNGn5dpeSYgQ7waYtIJbPMGh6X36G/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://drive.google.com/file/d/1sOHu_Q-cZQb02hvMsG1o5ofcHp4ey8mh/view?usp=sharing)
 
 
 ## 📈 Projects I've worked on:
