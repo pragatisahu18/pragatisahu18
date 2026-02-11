@@ -40,16 +40,11 @@ Hello! <br>
 [![Kotak Life – Growth Strategy & App Monetization](https://img.shields.io/badge/Kotak%20Life%20%E2%80%93%20Growth%20Strategy%20%26%20App%20Monetization-CDB4DB?style=flat&color=CDB4DB&labelColor=CDB4DB)](https://drive.google.com/file/d/1vK-3AY9y8y1y0G6CZ0gjdMsjXOyhM0-V/view?usp=sharing)
 
 
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
-  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-      <br>
-    5. User pain points, personas & strategy for new brand launch.
-  </div>
-  <a href="https://drive.google.com/file/d/12nNQMdxb2_JAjnHSDdz2fkiD3SAnV0m7/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Hieq.in%3A%20Hiring%20Solution-FFFACD?style=flat&logo=&logoColor=77DD77&color=FFFACD&labelColor=FFFACD&logoWidth=20" alt="Hieq.in: Hiring Solution" />
-  </a>
-</div>
+#### 5. Go To Market
 
+[![Coca-Cola – Last-Mile Distribution GTM Strategy](https://img.shields.io/badge/Coca--Cola%20%E2%80%93%20Last--Mile%20Distribution%20GTM%20Strategy-B5EAD7?style=flat&color=B5EAD7&labelColor=B5EAD7)](https://drive.google.com/file/d/14FaBHEJPps0gXppS_2PUrYdhdCmRUsuE/view?usp=sharing)
+
+[![YesMadam – Multi-Channel GTM Strategy](https://img.shields.io/badge/YesMadam%20%E2%80%93%20Multi--Channel%20GTM%20Strategy-B5EAD7?style=flat&color=B5EAD7&labelColor=B5EAD7)](https://drive.google.com/file/d/1jXyinwGBsxoYwvNNz6m1CMWyk73rUMEa/view?usp=sharing)
 
 
 <div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
