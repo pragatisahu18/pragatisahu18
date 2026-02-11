@@ -70,3 +70,10 @@ Hello! <br>
 [![Prime Pipes – CPVC/UPVC Market Entry & Expansion Blueprint](https://img.shields.io/badge/Prime%20Pipes%20%E2%80%93%20CPVC%2FUPVC%20Market%20Entry%20%26%20Expansion%20Blueprint-BFD8FF?style=flat&color=BFD8FF&labelColor=BFD8FF)](https://drive.google.com/file/d/1JHZ7ewb7OX3mAumFiQek8kM3c43XGsVO/view?usp=sharing)
 
 [![Samsung Smart Home – Market Penetration & Adoption Plan](https://img.shields.io/badge/Samsung%20Smart%20Home%20%E2%80%93%20Market%20Penetration%20%26%20Adoption%20Plan-BFD8FF?style=flat&color=BFD8FF&labelColor=BFD8FF)](https://drive.google.com/file/d/1eNZZtIrvV2BkgE_CZfK4XVHkDES8O5El/view?usp=sharing)
+
+
+### 10. Pricing Strategy
+
+[![Spotify – Tiered Pricing & Revenue Optimization Model](https://img.shields.io/badge/Spotify%20%E2%80%93%20Tiered%20Pricing%20%26%20Revenue%20Optimization%20Model-FFD6A5?style=flat&color=FFD6A5&labelColor=FFD6A5)](YOUR_SPOTIFY_DRIVE_LINK_HERE)
+
+
