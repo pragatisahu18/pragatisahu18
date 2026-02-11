@@ -57,3 +57,10 @@ Hello! <br>
 
 [![YouTube Music – Driving Premium Subscriber Growth](https://img.shields.io/badge/YouTube%20Music%20%E2%80%93%20Driving%20Premium%20Subscriber%20Growth-D8B4F8?style=flat&color=D8B4F8&labelColor=D8B4F8)](https://drive.google.com/file/d/1BeeSLEkDw_ZcnGVvARZtO0O06k3MzK9K/view?usp=sharing)
 
+
+#### 7. Driving Category Growth
+
+[![Flipkart – Scaling Tier 2/3 E-Commerce Adoption](https://img.shields.io/badge/Flipkart%20%E2%80%93%20Scaling%20Tier%202%2F3%20E--Commerce%20Adoption-A8E6CF?style=flat&color=A8E6CF&labelColor=A8E6CF)](https://drive.google.com/file/d/1MiGZLOIDhMIuHGEvuGE0SIrte15DY0Vn/view?usp=sharing)
+
+[![Personal Care – GMV & Margin Optimization](https://img.shields.io/badge/Personal%20Care%20%E2%80%93%20GMV%20%26%20Margin%20Optimization-A8E6CF?style=flat&color=A8E6CF&labelColor=A8E6CF)](https://drive.google.com/file/d/1SJ9DYE0tugJfpsjrVyi7HuXDD5b8Jop_/view?usp=sharing)
+
