@@ -39,7 +39,7 @@ Hello! <br>
     <br>
     2. New Product Development
 </div>
-<a href="https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=sharing" 
+<a href="https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=drive_link" 
    target="_blank" 
    rel="noopener noreferrer" 
    style="display: inline-block;">
