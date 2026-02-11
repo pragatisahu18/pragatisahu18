@@ -28,18 +28,9 @@ Hello! <br>
 [![Personal Finance App - SuperX](https://img.shields.io/badge/Personal%20Finance%20App%20-%20SuperX-FF0000?style=flat&color=FF0000&labelColor=FF0000)](https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=sharing)
 
 
+### 3. Brand Strategy
 
-
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
-  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-    <br>
-    3. Driving Category Growth on Q-commerce
-  </div>
-  <a href="https://drive.google.com/file/d/1zGTZXU4Iy-MKymj6m_vKX9UqxFxezZBz/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Driving%20Category%20Growth-ADD8E6?style=flat&logo=&logoColor=00008B&color=ADD8E6&labelColor=ADD8E6&logoWidth=20" alt="Driving Category Growth" />
-  </a>
-</div>
-
+[![Branding for Prime Pipes](https://img.shields.io/badge/Branding%20for%20Prime%20Pipes-AEC6CF?style=flat&color=AEC6CF&labelColor=AEC6CF)](https://drive.google.com/file/d/1nTav-5J_PJrzyPDD9gVP3KNP7kNhLYpx/view?usp=sharing)
 
 
 
