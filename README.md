@@ -47,38 +47,13 @@ Hello! <br>
 [![YesMadam – Multi-Channel GTM Strategy](https://img.shields.io/badge/YesMadam%20%E2%80%93%20Multi--Channel%20GTM%20Strategy-B5EAD7?style=flat&color=B5EAD7&labelColor=B5EAD7)](https://drive.google.com/file/d/1jXyinwGBsxoYwvNNz6m1CMWyk73rUMEa/view?usp=sharing)
 
 
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
-  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-      <br>
-    6. Strategic market entry analysis for Indian IoT segment
-  </div>
-  <a href="https://drive.google.com/file/d/1-9jtLIeG_GIUuV1ZnBu6Y_jvQirMaeiZ/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Samsung%20IOT%20Penetration-FFFFFF?style=flat&logo=&logoColor=000000&color=FFFFFF&labelColor=FFFFFF&logoWidth=20" alt="Samsung IOT Penetration" />
-  </a>
-</div>
+#### 6. Product Challenge
 
+[![Instagram Threads – Enhancing Feed & Community Experience](https://img.shields.io/badge/Instagram%20Threads%20%E2%80%93%20Enhancing%20Feed%20%26%20Community%20Experience-D8B4F8?style=flat&color=D8B4F8&labelColor=D8B4F8)](https://drive.google.com/file/d/1M5FiXJohdLkySFsE7t4Z_1OsHzsOKFTG/view?usp=sharing)
 
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
-  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-    <br>
-    7. Pricing Strategy Optimization: Freemium to Premium
-  </div>
-  <a href="https://drive.google.com/file/d/1rDJ8AEKD0ckIapFGFo5nhHGhaFOzJqSf/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Spotify%20Pricing%20Strategy-4CAF50?style=flat&logo=&logoColor=000000&color=4CAF50&labelColor=4CAF50&logoWidth=20" alt="Spotify Pricing Strategy" />
-  </a>
-</div>
+[![Practo – Enabling Vernacular Healthcare Access](https://img.shields.io/badge/Practo%20%E2%80%93%20Enabling%20Vernacular%20Healthcare%20Access-D8B4F8?style=flat&color=D8B4F8&labelColor=D8B4F8)](https://drive.google.com/file/d/1d0NcTqlydj9hkZG_WdTyMMDmSaNC9Hby/view?usp=sharing)
 
+[![Spotify – Increasing Listening Time Through Smart Discovery](https://img.shields.io/badge/Spotify%20%E2%80%93%20Increasing%20Listening%20Time%20Through%20Smart%20Discovery-D8B4F8?style=flat&color=D8B4F8&labelColor=D8B4F8)](https://drive.google.com/file/d/1DNivqG3uVLfbUvf9BJOAPmD-tmu9sfm7/view?usp=sharing)
 
+[![YouTube Music – Driving Premium Subscriber Growth](https://img.shields.io/badge/YouTube%20Music%20%E2%80%93%20Driving%20Premium%20Subscriber%20Growth-D8B4F8?style=flat&color=D8B4F8&labelColor=D8B4F8)](https://drive.google.com/file/d/1BeeSLEkDw_ZcnGVvARZtO0O06k3MzK9K/view?usp=sharing)
 
-
-
-
-
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=VedikaBehera&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
