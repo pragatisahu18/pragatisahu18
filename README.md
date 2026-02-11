@@ -16,21 +16,11 @@ Hello! <br>
 ## 📈 Projects I've worked on:
 
 
+### 1. New Product Launch
 
+[![Mario - Super Oats](https://img.shields.io/badge/Mario%20-%20Super%20Oats-FF0000?style=flat&color=FF0000&labelColor=FF0000)](https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=sharing)
 
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin-bottom: 12px; text-align: center;">
-  <div style="font-size: 12px; color: #333; margin-bottom: 6px;">
-    1. New Product Launch Strategy
-  </div>
-  <a href="https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=drive_link?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="Saffola: Super Oats       " />
-  </a>
-</div>
-  </div>
-  <a href="https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/view?usp=drive_link?usp=sharing" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/GTM%3A%20The%20Whole%20Truth-FFC0CB?style=flat&logo=&logoColor=purple&color=FFC0CB&labelColor=FFC0CB&logoWidth=20" alt="Loreal: Luminox Men Skincar" />
-  </a>
-</div>
+[![Loreal : Luminox Men Skincare](https://img.shields.io/badge/Loreal%20%3A%20Luminox%20Men%20Skincare-FF0000?style=flat&color=FF0000&labelColor=FF0000)](https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/view?usp=sharing)
 
 
 ### 2. New Product Development
