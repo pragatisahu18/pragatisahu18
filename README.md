@@ -18,9 +18,9 @@ Hello! <br>
 
 ### 🚀 1. New Product Launch  
 
-[![Saffola Super Oats – Health-Focused Product Launch Strategy](https://img.shields.io/badge/Saffola%20Super%20Oats%20–%20Health-Focused%20Product%20Launch%20Strategy-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/view?usp=sharing)
+[![Saffola Super Oats – Health-Focused Product Launch Strategy](https://img.shields.io/badge/Saffola%20Super%20Oats%20–%20Health-Focused%20Product%20Launch%20Strategy-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1UK7hNOGrhbKCMw03e5gE3CpAcPoQ9hXn/preview)
 
-[![L’Oréal – Luminox AI Skincare Launch Strategy](https://img.shields.io/badge/L’Oréal%20–%20Luminox%20AI%20Skincare%20Launch%20Strategy-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/view?usp=sharing)
+[![L’Oréal – Luminox AI Skincare Launch Strategy](https://img.shields.io/badge/L’Oréal%20–%20Luminox%20AI%20Skincare%20Launch%20Strategy-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1UH0SbjsyGFflXhx7yIVbzdiFTtUHWCyo/preview)
 
 ---
 
