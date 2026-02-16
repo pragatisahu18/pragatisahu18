@@ -1,10 +1,8 @@
-# About Me:
-
-Hello! <br>
-
 ## 👋 About Me
 
-Growth and brand strategy professional with 5 years of experience driving revenue expansion, go-to-market execution, and key account growth across B2B tech and consumer businesses. Proven track record in market expansion, pricing strategy, portfolio GTM, and C-suite stakeholder management, delivering measurable revenue, margin, and brand impact. Experienced in translating customer insights and data into scalable growth strategies through cross-functional collaboration
+Hello
+
+I am Growth and brand strategy professional with 5 years of experience driving revenue expansion, go-to-market execution, and key account growth across B2B tech and consumer businesses. Proven track record in market expansion, pricing strategy, portfolio GTM, and C-suite stakeholder management, delivering measurable revenue, margin, and brand impact. Experienced in translating customer insights and data into scalable growth strategies through cross-functional collaboration
 
 This portfolio showcases selected projects across product, growth, brand, market entry, and monetization strategy—each reflecting my approach to high-impact business solutions.
 
