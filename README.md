@@ -69,9 +69,9 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 📈 7. Driving Category Growth  
 
-[![Flipkart – Scaling Tier 2/3 E-Commerce Adoption](https://img.shields.io/badge/Flipkart%20–%20Scaling%20Tier%202%2F3%20E-Commerce%20Adoption-FFD93D?style=flat&logoColor=black)](https://drive.google.com/file/d/1MiGZLOIDhMIuHGEvuGE0SIrte15DY0Vn/view?usp=sharing)
+[![Flipkart – Scaling Tier 2/3 E-Commerce Adoption](https://img.shields.io/badge/Flipkart-Scaling%20Tier%202%2F3%20E-Commerce%20Adoption-FFD93D?labelColor=555555&color=FFD93D&style=flat&logoColor=black)](https://drive.google.com/file/d/1MiGZLOIDhMIuHGEvuGE0SIrte15DY0Vn/view?usp=sharing)
 
-[![Personal Care – GMV & Margin Optimization](https://img.shields.io/badge/Personal%20Care%20–%20GMV%20%26%20Margin%20Optimization-FFD93D?style=flat&logoColor=black)](https://drive.google.com/file/d/1SJ9DYE0tugJfpsjrVyi7HuXDD5b8Jop_/view?usp=sharing)
+[![Personal Care – GMV & Margin Optimization](https://img.shields.io/badge/Personal%20Care-GMV%20%26%20Margin%20Optimization-FFD93D?labelColor=555555&color=FFD93D&style=flat&logoColor=black)](https://drive.google.com/file/d/1SJ9DYE0tugJfpsjrVyi7HuXDD5b8Jop_/view?usp=sharing)
 
 ---
 
