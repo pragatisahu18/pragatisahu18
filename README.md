@@ -41,7 +41,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 📊 4. Growth Strategy  
 
-[![TVS Credit – Generative AI Transformation Strategy](https://img.shields.io/badge/TVS%20Credit-Generative%20AI%20Transformation%20Strategy-00E676?labelColor=1B5E20&color=00E676&style=flat)](https://drive.google.com/file/d/1-K5JhWOmGJMvBQs3PuVU1xzcE9K5FQCR/view?usp=sharing)
+[![TVS Credit – Generative AI Transformation Strategy](https://img.shields.io/badge/TVS%20Credit-Generative%20AI%20Transformation%20Strategy-00E676?labelColor=555555&color=00E676&style=flat)](https://drive.google.com/file/d/1-K5JhWOmGJMvBQs3PuVU1xzcE9K5FQCR/view?usp=sharing)
 
 [![Kotak Life – Growth Strategy & App Monetization](https://img.shields.io/badge/Kotak%20Life%20–%20Growth%20Strategy%20%26%20App%20Monetization-6BCB77?style=flat&logoColor=white)](https://drive.google.com/file/d/1vK-3AY9y8y1y0G6CZ0gjdMsjXOyhM0-V/view?usp=sharing)
 
