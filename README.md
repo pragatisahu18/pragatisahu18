@@ -9,7 +9,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragatisahu1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![Email](https://img.shields.io/badge/Email-pragatisahu1811%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pragatisahu1811@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatisahu1811@gmail.com)
 
 
 ## 📄 Resume :
