@@ -35,7 +35,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 🎯 3. Brand Strategy  
 
-[![Prime Pipes – 360° Brand Strategy](https://img.shields.io/badge/Prime%20Pipes-360%C2%B0%20Brand%20Strategy-2E86C1?labelColor=555555&color=2E86C1&style=flat&logoColor=white)](https://drive.google.com/file/d/1nTav-5J_PJrzyPDD9gVP3KNP7kNhLYpx/view?usp=sharing)
+[![Prime Pipes – 360° Brand Strategy](https://img.shields.io/badge/Prime%20Pipes-360%C2%B0%20Brand%20Strategy-2E86C1?labelColor=555555&color=4D96FF&style=flat&logoColor=white)](https://drive.google.com/file/d/1nTav-5J_PJrzyPDD9gVP3KNP7kNhLYpx/view?usp=sharing)
 
 ---
 
