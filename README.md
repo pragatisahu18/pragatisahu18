@@ -49,7 +49,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 🌍 5. Go-To-Market  
 
-[![Coca-Cola – Last-Mile Distribution GTM Strategy](https://img.shields.io/badge/Coca--Cola-Last--Mile%20Distribution%20GTM%20Strategy-ADB5BD?labelColor=555555&color=6C757D&style=flat&logoColor=white)](https://drive.google.com/file/d/14FaBHEJPps0gXppS_2PUrYdhdCmRUsuE/view?usp=sharing)
+[![Coca-Cola – Last-Mile Distribution GTM Strategy](https://img.shields.io/badge/Coca--Cola-Last--Mile%20Distribution%20GTM%20Strategy-ADB5BD?labelColor=555555&color=ADB5BD&style=flat&logoColor=white)](https://drive.google.com/file/d/14FaBHEJPps0gXppS_2PUrYdhdCmRUsuE/view?usp=sharing)
 
 [![YesMadam – Multi-Channel GTM Strategy](https://img.shields.io/badge/YesMadam-Multi--Channel%20GTM%20Strategy-ADB5BD?labelColor=555555&color=6C757D&style=flat&logoColor=white)](https://drive.google.com/file/d/1jXyinwGBsxoYwvNNz6m1CMWyk73rUMEa/view?usp=sharing)
 
