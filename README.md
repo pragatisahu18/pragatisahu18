@@ -85,7 +85,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 💰 9. Pricing Strategy  
 
-[![Spotify – Tiered Pricing & Revenue Optimization Model](https://img.shields.io/badge/Spotify%20–%20Tiered%20Pricing%20%26%20Revenue%20Optimization%20Model-6BCB77?style=flat&logoColor=white)](YOUR_SPOTIFY_DRIVE_LINK_HERE)
+[![Spotify – Tiered Pricing & Revenue Optimization Model](https://img.shields.io/badge/Spotify-Tiered%20Pricing%20%26%20Revenue%20Optimization%20Model-196F3D?labelColor=555555&color=196F3D&style=flat&logoColor=white)](YOUR_SPOTIFY_DRIVE_LINK_HERE)
 
 ---
 
