@@ -77,9 +77,9 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 🏁 8. Market Entry Strategy  
 
-[![Prime Pipes – CPVC/UPVC Market Entry & Expansion Blueprint](https://img.shields.io/badge/Prime%20Pipes%20–%20CPVC%2FUPVC%20Market%20Entry%20%26%20Expansion%20Blueprint-4D96FF?style=flat&logoColor=white)](https://drive.google.com/file/d/1JHZ7ewb7OX3mAumFiQek8kM3c43XGsVO/view?usp=sharing)
+[![Prime Pipes – CPVC/UPVC Market Entry & Expansion Blueprint](https://img.shields.io/badge/Prime%20Pipes-CPVC%2FUPVC%20Market%20Entry%20%26%20Expansion%20Blueprint-4D96FF?labelColor=555555&color=4D96FF&style=flat&logoColor=white)](https://drive.google.com/file/d/1JHZ7ewb7OX3mAumFiQek8kM3c43XGsVO/view?usp=sharing)
 
-[![Samsung Smart Home – Market Penetration & Adoption Plan](https://img.shields.io/badge/Samsung%20Smart%20Home%20–%20Market%20Penetration%20%26%20Adoption%20Plan-4D96FF?style=flat&logoColor=white)](https://drive.google.com/file/d/1eNZZtIrvV2BkgE_CZfK4XVHkDES8O5El/view?usp=sharing)
+[![Samsung Smart Home – Market Penetration & Adoption Plan](https://img.shields.io/badge/Samsung%20Smart%20Home-Market%20Penetration%20%26%20Adoption%20Plan-4D96FF?labelColor=555555&color=4D96FF&style=flat&logoColor=white)](https://drive.google.com/file/d/1eNZZtIrvV2BkgE_CZfK4XVHkDES8O5El/view?usp=sharing)
 
 ---
 
