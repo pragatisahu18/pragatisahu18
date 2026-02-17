@@ -13,7 +13,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 
 ## 📄 Resume :
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://drive.google.com/file/d/1sOHu_Q-cZQb02hvMsG1o5ofcHp4ey8mh/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-3DBE29?style=flat&logo=dropbox&logoColor=white)](https://drive.google.com/file/d/164f4bGxrg9b8jPUzwPCRx7ntXdWKX26V/view?usp=drive_link)
 
 ## 📈 Projects I've Worked On
 
