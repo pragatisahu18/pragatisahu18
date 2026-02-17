@@ -91,4 +91,5 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 🧩 10. Thought Leadership  
 
-[![SAP Analytics Cloud – Collaborative Enterprise Planning](https://img.shields.io/badge/SAP%20Analytics%20Cloud%20–%20Collaborative%20Enterprise%20Planning-ADB5BD?style=flat&logoColor=white)](https://drive.google.com/file/d/1RNi89wl0wQsMXR4SakNRy1SmUWp9cDi9/view?usp=sharing)
+[![SAP Analytics Cloud – Collaborative Enterprise Planning](https://img.shields.io/badge/SAP%20Analytics%20Cloud%20–%20Collaborative%20Enterprise%20Planning-6C757D?style=flat&logoColor=white)](https://drive.google.com/file/d/1RNi89wl0wQsMXR4SakNRy1SmUWp9cDi9/view?usp=sharing)
+
