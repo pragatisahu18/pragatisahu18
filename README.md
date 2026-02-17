@@ -59,11 +59,11 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 [![Instagram Threads – Enhancing Feed & Community Experience](https://img.shields.io/badge/Instagram%20Threads-Enhancing%20Feed%20%26%20Community%20Experience-1F618D?labelColor=555555&color=2E86C1&style=flat&logoColor=white)](https://drive.google.com/file/d/1M5FiXJohdLkySFsE7t4Z_1OsHzsOKFTG/view?usp=sharing)
 
-[![Practo – Enabling Vernacular Healthcare Access](https://img.shields.io/badge/Practo%20–%20Enabling%20Vernacular%20Healthcare%20Access-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1d0NcTqlydj9hkZG_WdTyMMDmSaNC9Hby/view?usp=sharing)
+[![Practo – Enabling Vernacular Healthcare Access](https://img.shields.io/badge/Practo-Enabling%20Vernacular%20Healthcare%20Access-2E86C1?labelColor=555555&color=2E86C1&style=flat&logoColor=white)](https://drive.google.com/file/d/1d0NcTqlydj9hkZG_WdTyMMDmSaNC9Hby/view?usp=sharing)
 
-[![Spotify – Increasing Listening Time Through Smart Discovery](https://img.shields.io/badge/Spotify%20–%20Increasing%20Listening%20Time%20Through%20Smart%20Discovery-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1DNivqG3uVLfbUvf9BJOAPmD-tmu9sfm7/view?usp=sharing)
+[![Spotify – Increasing Listening Time Through Smart Discovery](https://img.shields.io/badge/Spotify-Increasing%20Listening%20Time%20Through%20Smart%20Discovery-2E86C1?labelColor=555555&color=2E86C1&style=flat&logoColor=white)](https://drive.google.com/file/d/1DNivqG3uVLfbUvf9BJOAPmD-tmu9sfm7/view?usp=sharing)
 
-[![YouTube Music – Driving Premium Subscriber Growth](https://img.shields.io/badge/YouTube%20Music%20–%20Driving%20Premium%20Subscriber%20Growth-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1BeeSLEkDw_ZcnGVvARZtO0O06k3MzK9K/view?usp=sharing)
+[![YouTube Music – Driving Premium Subscriber Growth](https://img.shields.io/badge/YouTube%20Music-Driving%20Premium%20Subscriber%20Growth-2E86C1?labelColor=555555&color=2E86C1&style=flat&logoColor=white)](https://drive.google.com/file/d/1BeeSLEkDw_ZcnGVvARZtO0O06k3MzK9K/view?usp=sharing)
 
 ---
 
