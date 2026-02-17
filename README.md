@@ -57,7 +57,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 🧠 6. Product Challenge  
 
-[![Instagram Threads – Enhancing Feed & Community Experience](https://img.shields.io/badge/Instagram%20Threads-Enhancing%20Feed%20%26%20Community%20Experience-1F618D?labelColor=555555&color=1F618D&style=flat&logoColor=white)](https://drive.google.com/file/d/1M5FiXJohdLkySFsE7t4Z_1OsHzsOKFTG/view?usp=sharing)
+[![Instagram Threads – Enhancing Feed & Community Experience](https://img.shields.io/badge/Instagram%20Threads-Enhancing%20Feed%20%26%20Community%20Experience-1F618D?labelColor=555555&color=154360&style=flat&logoColor=white)](https://drive.google.com/file/d/1M5FiXJohdLkySFsE7t4Z_1OsHzsOKFTG/view?usp=sharing)
 
 [![Practo – Enabling Vernacular Healthcare Access](https://img.shields.io/badge/Practo%20–%20Enabling%20Vernacular%20Healthcare%20Access-FF6B6B?style=flat&logoColor=white)](https://drive.google.com/file/d/1d0NcTqlydj9hkZG_WdTyMMDmSaNC9Hby/view?usp=sharing)
 
