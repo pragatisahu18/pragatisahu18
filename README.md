@@ -29,8 +29,7 @@ This portfolio showcases selected projects across product, growth, brand, market
 
 ### 💡 2. New Product Development  
 
-[![SuperX - Personal Finance App](https://img.shields.io/badge/SuperX-Personal%20Finance%20App-F4D03F?labelColor=555555&color=#D4AC0D
-&style=flat&logoColor=white&logoWidth=0)](https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=sharing)
+[![SuperX - Personal Finance App](https://img.shields.io/badge/SuperX-Personal%20Finance%20App-F4D03F?labelColor=555555&color=D4AC0D&style=flat&logoColor=white&logoWidth=0)](https://drive.google.com/file/d/1d-jEl45BdqS9TxnfqCgYED_VD2QARVAl/view?usp=sharing)
 
 ---
 
